@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-// added  
+ 
 h3 {
   text-align: center;
 }
@@ -16,11 +16,15 @@ textarea{
   padding: 10px;
 }
 
-//add footer info once added to html 
+footer {
+  font-size: 10px;
+  text-align: right;
+  padding-top: 300px;
+}
 
-
-// add info once add background img on html
-
+img {
+  padding: 15px;
+}
 
 
 .hoursTitle {
@@ -77,7 +81,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: #0408fc;
   color: white;
 }
 
