@@ -9,10 +9,8 @@ Link to Application
 
 
 
-Pictures (in Action)
 
-
-Work Day Scheduler 
+Work Day Scheduler (screenshot of app in action)
 ![Screen Shot 2021-03-28 at 2 26 51 PM](https://user-images.githubusercontent.com/77651165/112768709-2618dd80-8fd2-11eb-9869-13cf9b5a2741.png)
 
 
