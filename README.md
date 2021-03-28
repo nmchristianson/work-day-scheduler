@@ -5,7 +5,7 @@ In this application, it will highlight anything in grey for past hours, current 
 
 
 Link to Application 
- https://nmchristianson.github.io/work-day-scheduler/
+ https://nmchristianson.github.io/work-day-scheduler/.
 
 
 
